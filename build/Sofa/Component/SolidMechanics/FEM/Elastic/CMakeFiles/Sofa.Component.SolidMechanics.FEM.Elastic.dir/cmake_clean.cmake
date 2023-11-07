@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "../../../../../lib/libSofa.Component.SolidMechanics.FEM.Elastic.pdb"
+  "../../../../../lib/libSofa.Component.SolidMechanics.FEM.Elastic.so"
+  "../../../../../lib/libSofa.Component.SolidMechanics.FEM.Elastic.so.22.12.99"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/BeamFEMForceField.cpp.o"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/BeamFEMForceField.cpp.o.d"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/FastTetrahedralCorotationalForceField.cpp.o"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/FastTetrahedralCorotationalForceField.cpp.o.d"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/HexahedralFEMForceField.cpp.o"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/HexahedralFEMForceField.cpp.o.d"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/HexahedralFEMForceFieldAndMass.cpp.o"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/HexahedralFEMForceFieldAndMass.cpp.o.d"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/HexahedronFEMForceField.cpp.o"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/HexahedronFEMForceField.cpp.o.d"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/HexahedronFEMForceFieldAndMass.cpp.o"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/HexahedronFEMForceFieldAndMass.cpp.o.d"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/QuadBendingFEMForceField.cpp.o"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/QuadBendingFEMForceField.cpp.o.d"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/TetrahedralCorotationalFEMForceField.cpp.o"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/TetrahedralCorotationalFEMForceField.cpp.o.d"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/TetrahedronFEMForceField.cpp.o"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/TetrahedronFEMForceField.cpp.o.d"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/TriangleFEMForceField.cpp.o"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/TriangleFEMForceField.cpp.o.d"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/TriangleFEMUtils.cpp.o"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/TriangleFEMUtils.cpp.o.d"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/TriangularAnisotropicFEMForceField.cpp.o"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/TriangularAnisotropicFEMForceField.cpp.o.d"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/TriangularFEMForceField.cpp.o"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/TriangularFEMForceField.cpp.o.d"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/TriangularFEMForceFieldOptim.cpp.o"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/TriangularFEMForceFieldOptim.cpp.o.d"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/init.cpp.o"
+  "CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/src/sofa/component/solidmechanics/fem/elastic/init.cpp.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/Sofa.Component.SolidMechanics.FEM.Elastic.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

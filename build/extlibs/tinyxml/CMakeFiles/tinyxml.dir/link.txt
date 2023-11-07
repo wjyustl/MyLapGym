@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,libtinyxml.so.2.6.2 -o ../../lib/libtinyxml.so.2.6.2 CMakeFiles/tinyxml.dir/tinystr.cpp.o CMakeFiles/tinyxml.dir/tinyxml.cpp.o CMakeFiles/tinyxml.dir/tinyxmlerror.cpp.o CMakeFiles/tinyxml.dir/tinyxmlparser.cpp.o  -Wl,-rpath,:::::::::::::::::::::::::::::: 

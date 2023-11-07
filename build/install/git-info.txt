@@ -1,0 +1,31 @@
+# Git info for Sofa
+
+## Current commit
+## git rev-parse --abbrev-ref HEAD
+e74b94848af09536873d1c7eb291a5e742fc6077
+
+## Branches containing current commit
+## git branch -a --contains e74b94848af09536873d1c7eb291a5e742fc6077 
+* (HEAD detached at e74b94848a)
+  master
+  remotes/origin/HEAD -> origin/master
+  remotes/origin/fix_TriangleSetTopologyContainer
+  remotes/origin/master
+  remotes/origin/v22.12
+  remotes/origin/v23.06
+
+## Remotes
+## git remote -vv 
+origin	https://github.com/sofa-framework/sofa.git (fetch)
+origin	https://github.com/sofa-framework/sofa.git (push)
+
+## More info
+## git log --pretty -n 1
+commit e74b94848af09536873d1c7eb291a5e742fc6077
+Author: Frederick Roy <fredroy@users.noreply.github.com>
+Date:   Thu Nov 17 18:44:51 2022 +0900
+
+    [GUI.Qt] Restore Stats (Charts) and DocBrowser for Qt6 (#3456)
+    
+    * restore charts (stats) feature with qt6
+    * restore doc browser feature with qt6

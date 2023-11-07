@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -Wl,--no-undefined -lc -shared -Wl,-soname,libSofa.Config.so.22.12.99 -o ../../../lib/libSofa.Config.so.22.12.99 CMakeFiles/Sofa.Config.dir/src/sofa/initSofaConfig.cpp.o  -Wl,-rpath,:::::::::::::::::::::::::::::: 

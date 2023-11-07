@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -Wl,--no-undefined -lc -shared -Wl,-soname,libSofa.Component.Compat.so.22.12.99 -o ../../../lib/libSofa.Component.Compat.so.22.12.99 CMakeFiles/Sofa.Component.Compat.dir/src/init.cpp.o  -Wl,-rpath,/home/wjy/MyLapGym/build/lib:: ../../../lib/libSofa.Config.so.22.12.99 

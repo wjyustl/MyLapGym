@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "/home/wjy/MyLapGym/build/Sofa/GUI/Qt/Sofa.GUI.Qt_autogen",
+	"CMAKE_BINARY_DIR" : "/home/wjy/MyLapGym/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/wjy/MyLapGym/build/Sofa/GUI/Qt",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/wjy/MyLapGym/src/Sofa/GUI/Qt",
+	"CMAKE_SOURCE_DIR" : "/home/wjy/MyLapGym/src",
+	"INCLUDE_DIR" : "/home/wjy/MyLapGym/build/Sofa/GUI/Qt/Sofa.GUI.Qt_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/wjy/MyLapGym/src/Sofa/GUI/Qt/src/sofa/gui/qt/resources/icons/sceneGraphRefresh-dirty.svg",
+		"/home/wjy/MyLapGym/src/Sofa/GUI/Qt/src/sofa/gui/qt/resources/icons/expandAll.svg",
+		"/home/wjy/MyLapGym/src/Sofa/GUI/Qt/src/sofa/gui/qt/resources/icons/sceneGraphRefresh-locked.svg",
+		"/home/wjy/MyLapGym/src/Sofa/GUI/Qt/src/sofa/gui/qt/resources/icons/collapseAll.svg",
+		"/home/wjy/MyLapGym/src/Sofa/GUI/Qt/src/sofa/gui/qt/resources/icons/sceneGraphRefresh-unlocked.svg"
+	],
+	"LOCK_FILE" : "/home/wjy/MyLapGym/build/Sofa/GUI/Qt/CMakeFiles/Sofa.GUI.Qt_autogen.dir/AutoRcc_RealGUI_4M7Z7HO4US_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "RealGUI" ],
+	"OUTPUT_CHECKSUM" : "4M7Z7HO4US",
+	"OUTPUT_NAME" : "qrc_RealGUI.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/wjy/MyLapGym/build/Sofa/GUI/Qt/CMakeFiles/Sofa.GUI.Qt_autogen.dir/AutoRcc_RealGUI_4M7Z7HO4US_Used.txt",
+	"SOURCE" : "/home/wjy/MyLapGym/src/Sofa/GUI/Qt/src/sofa/gui/qt/resources/RealGUI.qrc",
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,27 @@
+# Git info for SofaPython3
+
+## Current commit
+## git rev-parse --abbrev-ref HEAD
+15bc9725e85b282ce97738266e9849ca1b9c1602
+
+## Branches containing current commit
+## git branch -a --contains 15bc9725e85b282ce97738266e9849ca1b9c1602 
+* (HEAD detached at 15bc972)
+  master
+
+## Remotes
+## git remote -vv 
+origin	https://github.com/sofa-framework/SofaPython3.git (fetch)
+origin	https://github.com/sofa-framework/SofaPython3.git (push)
+
+## More info
+## git log --pretty -n 1
+commit 15bc9725e85b282ce97738266e9849ca1b9c1602
+Author: Paul Scheikl <paul.scheikl@kit.edu>
+Date:   Fri Nov 4 00:49:38 2022 +0100
+
+    [Binding/Sofa.Core] PointSetTopologyModifier (#290)
+    
+    * Added WIP for binding PointSetTopologyModifier. On first call, addPoints works as expected, every call after that does not. Remove points works well, but validity of point to be removed is not checked yet.
+    
+    * Extend example. Memcache does not update correctly.

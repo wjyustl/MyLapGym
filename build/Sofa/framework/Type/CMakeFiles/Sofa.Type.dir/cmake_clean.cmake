@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "../../../lib/libSofa.Type.pdb"
+  "../../../lib/libSofa.Type.so"
+  "../../../lib/libSofa.Type.so.22.12.99"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/BoundingBox.cpp.o"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/BoundingBox.cpp.o.d"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/DualQuat.cpp.o"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/DualQuat.cpp.o.d"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/Frame.cpp.o"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/Frame.cpp.o.d"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/Material.cpp.o"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/Material.cpp.o.d"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/PrimitiveGroup.cpp.o"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/PrimitiveGroup.cpp.o.d"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/Quat.cpp.o"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/Quat.cpp.o.d"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/RGBAColor.cpp.o"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/RGBAColor.cpp.o.d"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/SVector.cpp.o"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/SVector.cpp.o.d"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/Vec.cpp.o"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/Vec.cpp.o.d"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/fixed_array.cpp.o"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/fixed_array.cpp.o.d"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/init.cpp.o"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/init.cpp.o.d"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/vector.cpp.o"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/vector.cpp.o.d"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/vector_Integral.cpp.o"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/vector_Integral.cpp.o.d"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/vector_Real.cpp.o"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/vector_Real.cpp.o.d"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/vector_String.cpp.o"
+  "CMakeFiles/Sofa.Type.dir/src/sofa/type/vector_String.cpp.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/Sofa.Type.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
